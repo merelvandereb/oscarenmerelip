@@ -3,8 +3,8 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Merel van der Eb
+    - name: Oscar Wesdorp
 
   date: 2025-11-05
   github: https://github.com/merelvandereb/oscarenmerelip.git # Change this URL to your GitHub repository
@@ -24,4 +24,4 @@ site:
   
   actions:
     - title: report issue
-      url: https://github.com/merelvandereb/oscarenmerelip.git # change this URL to your repository
+      url: https://github.com/Contemporary-Physicslab/thermolab/issues # change this URL to your repository
