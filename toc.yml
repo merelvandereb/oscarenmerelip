@@ -1,4 +1,4 @@
-version: 2
+version: 1
 project:
   toc:
     - file: index.md
@@ -56,7 +56,7 @@ project:
            - file: Content/Labs/Verdamping.ipynb        
            - file: Content/Labs/Warmtecapaciteit.ipynb
 
-      # - title: Druk
-      #   children:
-      #     - file: Content/Labs/druksensorijken.ipynb
+       - title: Druk
+         children:
+          - file: Content/Labs/druksensorijken.ipynb
       #     - file: Content/Labs/pV_diagram.ipynb
