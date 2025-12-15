@@ -47,8 +47,10 @@ project:
 
     - title: Labs
       file: Content/Labs/uitleg.md
-      # children:
-        
+       children:
+        - title: faseovergangen
+          children:
+            - file: Content/Labs/cappucino.ipynb
       # - title: Soortelijke warmte
       #   children:
       #     - file: Content/Labs/cwater.ipynb
