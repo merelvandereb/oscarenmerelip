@@ -49,10 +49,6 @@ project:
       file: Content/Labs/uitleg.md
       
 
-           - title: faseovergangen
-          children:
-            - file: Content/Labs/cappucino.ipynb
-      
       children:
         
        - title: Soortelijke warmte
