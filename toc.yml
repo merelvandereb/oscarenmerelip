@@ -47,8 +47,9 @@ project:
 
     - title: Labs
       file: Content/Labs/uitleg.md
-       children:
-        - title: faseovergangen
+      
+
+           - title: faseovergangen
           children:
             - file: Content/Labs/cappucino.ipynb
       
@@ -60,6 +61,10 @@ project:
            - file: Content/Labs/koelbuis.ipynb
            - file: Content/Labs/Verdamping.ipynb        
            - file: Content/Labs/Warmtecapaciteit.ipynb
+
+       - title: faseovergangen
+         children:
+            - file: Content/Labs/cappucino.ipynb
 
        - title: Druk
          children:
