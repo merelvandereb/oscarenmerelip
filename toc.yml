@@ -34,7 +34,7 @@ project:
 
     - title: Simulaties
       file: Content/PySim/uitleg.md
-      
+
       children:
         - file: Content/PySim/1_intro_sim.ipynb
         - file: Content/PySim/2_deeltjes_model.ipynb
@@ -43,7 +43,7 @@ project:
         - file: Content/PySim/5_druktemp.ipynb
         - file: Content/PySim/6_boltzmann.ipynb
         - file: Content/PySim/7_arbeid.ipynb
-        - file: Content/PySim/8_thermostaat.ipynb
+        - file: Content/PySim/8_thermostaat (1).ipynb
         - file: Content/PySim/9_entropie.ipynb
 
     - title: Labs
